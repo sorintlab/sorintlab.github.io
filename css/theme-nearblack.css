@@ -897,8 +897,8 @@ nav .btn,
   top: 1px;
 }
 .nav-bar {
-  height: 55px;
-  max-height: 55px;
+  height: 70px;
+  max-height: 70px;
   line-height: 53px;
   border-bottom: 1px solid #ccc;
 }
@@ -908,7 +908,7 @@ nav .btn,
 }
 .nav-bar a {
   display: inline-block;
-  height: 55px;
+  height: 70px;
 }
 .logo {
   max-height: 60%;
@@ -4339,7 +4339,7 @@ video {
   max-height: 50px;
 }
 .image-xxs {
-  max-height: 30px;
+  max-height: 70px;
 }
 .fade-half {
   opacity: 0.5;
